@@ -18,6 +18,9 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
+package-lock.json
+package.json
+node-modules
 *.ntvs*
 *.njsproj
 *.sln
